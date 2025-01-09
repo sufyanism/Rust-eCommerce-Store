@@ -6,7 +6,6 @@ An eCommerce store built in Rust is high performance and secure while handling l
 * Memory safety: Common bugs such as null pointer dereferencing, buffer overflows, and race conditions are eliminated, making an application safer and more stable.
 * Concurrency: Handle multiple simultaneous users or operations, which is very important for eCommerce platforms, especially during peak hours.
 
-
 ## Prerequisites
 Step 1: Set Up the Project “edit name as per choice”
 First, create a new Rust project:
