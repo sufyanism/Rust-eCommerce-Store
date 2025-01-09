@@ -9,9 +9,12 @@ An eCommerce store built in Rust is high performance and secure while handling l
 ## Prerequisites
 Step 1: Set Up the Project “edit name as per choice”
 First, create a new Rust project:
-`cargo new rust_web_app_main`
-`cd rust_web_app_main`
-`cargo run`
+* `cargo new rust_web_app_main`
+* `cd rust_web_app_main`
+* `cargo run`
+*  `cargo update`
+
+
 
 
 
