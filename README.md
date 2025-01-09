@@ -1,5 +1,5 @@
 # Rust eCommerce Project
-An eCommerce store built in Rust can exploit these properties to make sure that your website is high performance and secure while handling large traffic and transaction volumes. The store will have to manage things like products, users, orders, inventory, and payments.
+An eCommerce store built in Rust is high performance and secure while handling large traffic and transaction volumes. The store will have to manage things like products, users, orders, inventory, and payments etc.
 
 ## Features
 * High performance: Rust is very fast and thus ensures a good performance for the store, even under a high load.
